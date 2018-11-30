@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My portfolio about me</title>
+  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+  <div class="header">
+    <h1>Monica Cloutier</h1>
+  </div>
+
+  <nav>
+    <div><a href="./index.html">Portfolio</a></div>
+    <div><a href="./aboutme.html">About Me</a></div>
+  </nav>
+  
+  <div class="map">
+    <h3>About Me:</h3>
+    <p>My name is Monica Cloutier, I will be graduating from University of Wisconsin Madison in the spring of 2019 with a degree in Environmental Science with an emphasis in GIS. I have experience working with ArcGIS, Adobe Illustrator, and Photoshop as well as some experience working with Python. You can contact me at mlcloutier@wisc.edu or on <a href=linkedin.com/in/monica-cloutier-709531176> linkedin </a></p>
+  </div>
+	
+</body>
+</html>

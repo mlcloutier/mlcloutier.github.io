@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My portfolio home</title>
+  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+  <div class="header">
+    <h1>Monica Cloutier</h1>
+  </div>
+
+  <nav>
+    <div><a href="./index.html">Portfolio</a></div>
+    <div><a href="./aboutme.html">About Me</a></div>
+  </nav>
+  
+  <div class="map">
+    <h3>Africa: Capitals, Cities, and Countries</h3>
+    <img src="images/mapofafrica.jpg" alt="Africa: Capitals, Cities, and Countries" width="200px" height = "267px" />
+    <p>For this map the design challenge was to make a political map of Africa depicting the names of countries in English, the names of capitals and cities in the native language, and specificying the disputed teritories. I designed the map based off the idea of classroom maps. I choose the text as a san serif font to allow for easy reading. </p>
+  </div>
+	<div class="map">
+    <h3>State Parks</h3>
+    <img src="images/stateparks.jpg" alt="State Parks" width="200px" height = "267px" />
+    <p>For this map the design challenge was to make a simple graphic that could accompany a coresponding article as supportive information. The map also needed to be monochomatic. I chose a grayscale color scheme so that the map could stand on its own but would not compete too much with other parts of the article. The proportional symbols have a transparincy set over them to allow the reader to see what is happening in areas with overlap. </p>
+	</div>
+	<div class="map">
+    <h3>Lake Superior Shipwrecks</h3>
+    <img src="images/shipwreaksoflakesuperior.jpg" alt="Lake Superior Shipwrecks" width="200px" height = "267px" />
+    <p>For this map I wanted to make an antique looking map. To start I found an image of old paper texture to use as the backdrop. Using a combination of layering tools, primarily color burn I layered a vector image of Lake Superior with a blue inner glow which was the only color besides black that I used to mimic the generally one to two tone color schemes of antique maps. </p> 
+	</div>
+	<div class="map">
+    <h3>Afterschool Infographic</h3>
+    <img src="images/afterschoolinfographic.jpg" alt="Afterschool Infographic" width="200px" height = "267px" />
+    <p>For this project I wanted to convey the importance of afterschools in the US. I chose to do this by seperating out sections in a question and answer type of format to allow the reader to easily follow the information that I was giving. I choose a color scheme that was light to allow for easier reading and less eye strain for the reader. I used a few bright pops of color to mimic the pimary color colorscheme that many elementry schools use. </p> 
+	</div>
+	<div class="map">
+    <h3>Map of Madison</h3>
+    <img src="images/mapofmadison.jpg" alt="Map of Madison" width="200px" height = "267px" />
+    <p>For this map the design challenge was to make a highly complex, realistic reference map and design 12 symbols for points of interests in the area. I choose to do a map of Madison as it is an area that I have lived for most of my life. The map uses a simplified land cover for the area layered over a shaded relief map. On top of that is a vecor layer of the roads and bodies of water in the are. I added labels for each of the 12 point symbols, natural areas, bodies of water, and some of the major streets in the area. </p> 
+	</div>
+
+</body>
+</html>
